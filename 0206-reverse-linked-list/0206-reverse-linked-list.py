@@ -11,7 +11,6 @@ class Solution:
         
         curr = head
         prev = None
-        ptr = head.next
 
         while(curr is not None):
             ptr = curr.next
