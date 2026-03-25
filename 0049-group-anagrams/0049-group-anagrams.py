@@ -4,14 +4,10 @@ class Solution:
         hash_map = {}
 
         for string in strs:
-
-            key = tuple(sorted(string))
-
-            if(key not in hash_map.keys()):
-                hash_map[key] = [string]
-            
+            if(tuple(sorted(string)) not in hash_map):
+                hash_map[tuple(sorted(string))] = [string]
             else:
-                hash_map[key].append(string)
+                hash_map[tuple(sorted(string))].append(string)
         
         result = []
 
