@@ -37,6 +37,7 @@
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0739-daily-temperatures/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0020-valid-parentheses/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 <!---LeetCode Topics End-->
