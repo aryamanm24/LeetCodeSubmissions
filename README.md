@@ -42,4 +42,12 @@
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0739-daily-temperatures/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
