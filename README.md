@@ -61,6 +61,7 @@
 | [0503-next-greater-element-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
