@@ -90,6 +90,7 @@
 | [0020-valid-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0049-group-anagrams/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0796-rotate-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -167,4 +168,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
