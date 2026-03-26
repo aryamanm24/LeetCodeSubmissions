@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0075-sort-colors/) | Medium |
@@ -103,6 +104,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0704-binary-search/) | Easy |
 ## Tree
