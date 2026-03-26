@@ -43,6 +43,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0075-sort-colors/) | Medium |
+| [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0020-valid-parentheses/) | Easy |
+| [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0739-daily-temperatures/) | Medium |
@@ -71,11 +73,13 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
