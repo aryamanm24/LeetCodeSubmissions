@@ -44,6 +44,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0075-sort-colors/) | Medium |
 | [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,4 +193,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 <!---LeetCode Topics End-->
