@@ -7,11 +7,9 @@ class Solution:
             if(char == '('):
                 stack.append(char)
             else:
-                if(not stack):
-                    stack.append(char)
-                elif(stack[-1] == '('):
+                if(stack and stack[-1] == '('):
                     stack.pop()
-                elif(stack[-1] == ')'):
+                else:
                     stack.append(char)
         
         return len(stack)
