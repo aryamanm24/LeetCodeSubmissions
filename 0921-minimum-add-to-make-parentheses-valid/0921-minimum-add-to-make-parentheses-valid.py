@@ -7,7 +7,7 @@ class Solution:
             if(char == '('):
                 stack.append(char)
             else:
-                if(stack and stack[-1] == '('):
+                if(stack and stack[-1] == '(' and char == ')'):
                     stack.pop()
                 else:
                     stack.append(char)
