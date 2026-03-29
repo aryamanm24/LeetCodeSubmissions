@@ -105,6 +105,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
