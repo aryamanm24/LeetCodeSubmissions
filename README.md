@@ -29,6 +29,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@
 | [0056-merge-intervals](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
