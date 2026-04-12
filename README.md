@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -37,6 +38,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0509-fibonacci-number](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0704-binary-search/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
