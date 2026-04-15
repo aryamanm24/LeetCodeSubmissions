@@ -21,6 +21,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0739-daily-temperatures/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sliding Window
