@@ -177,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0509-fibonacci-number/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
