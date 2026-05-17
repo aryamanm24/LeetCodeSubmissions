@@ -103,6 +103,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0058-length-of-last-word/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0856-score-of-parentheses/) | Medium |
