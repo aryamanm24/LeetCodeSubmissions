@@ -16,7 +16,4 @@ class Solution:
         
         final_result = []
 
-        for key in groups:
-            final_result.append(groups[key])
-
-        return final_result
+        return list(groups.values())
