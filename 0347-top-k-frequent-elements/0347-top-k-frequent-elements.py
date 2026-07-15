@@ -1,23 +1,34 @@
+from collections import defaultdict
+
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        
-        count_map = {}
 
-        for num in nums:
-            if(num not in count_map):
-                count_map[num] = 1
-            count_map[num] += 1
+        length = len(nums)
         
-        arr = []
+        count_map = defaultdict(int)
 
-        for key in count_map.keys():
-            arr.append([count_map[key], key])
+        for number in nums:
+            count_map[number] += 1
         
-        sorted_arr = sorted(arr, reverse=True)
+        # {1: 4, 2: 4, 3: 2}
 
-        output = []
+        buckets = [[] for _ in range(length+1)]
 
-        for i in range(k):
-            output.append(sorted_arr[i][1])
+        # [[], [], [], [], [], [], [], [], [], [], []] -> since there are 10 elements in nums
+        # and then max frequency that a number can take is the length of nums
+
+        for num, freq in count_map.items():
+            buckets[freq].append(num)
         
-        return output
+        # [[], [], [3], [], [1, 2], [], [], [], [], [], []]
+
+        result = []
+
+        for i in range(length, -1, -1):
+            for num in buckets[i]:
+                result.append(num)
+                
+                if(len(result) == k):
+                    return result
+        
+        return []
