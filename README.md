@@ -17,6 +17,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -33,6 +34,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -66,6 +68,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -141,6 +144,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -202,14 +206,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +236,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
