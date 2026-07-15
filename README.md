@@ -35,6 +35,7 @@
 | [0049-group-anagrams](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -59,6 +60,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0075-sort-colors/) | Medium |
+| [0141-linked-list-cycle](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Sorting
@@ -100,6 +102,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
