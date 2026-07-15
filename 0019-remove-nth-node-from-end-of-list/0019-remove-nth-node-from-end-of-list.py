@@ -6,28 +6,33 @@
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
         
-        # Naive
-
-        curr = head
+        if(not head):
+            return head
+        
         length = 0
+        curr = head
 
-        while(curr is not None):
+        while(curr):
             length += 1
             curr = curr.next
-        
-        # Now we got the length of the linked list, so next we just go till
-        # length - n nodes and remove the length - n + 1st node:
 
-        if(n==length):
-            return head.next # head is removed
-
+        # Now we know the number of nodes in the linked list
+        i = 1
         curr = head
-        count = 0
 
-        while(count < length-n-1):
+        number_to_remove = length - n + 1
+
+        # removing the head
+        if(number_to_remove == 1):
+            return head.next
+
+        while(i < number_to_remove):
+            prev = curr
             curr = curr.next
-            count += 1
+            i += 1
         
-        curr.next = curr.next.next
+        if(prev.next is None):
+            return head
+        
+        prev.next = curr.next
         return head
-        
