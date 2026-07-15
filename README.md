@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
@@ -32,6 +33,7 @@
 | [0001-two-sum](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0242-valid-anagram/) | Easy |
@@ -233,6 +235,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
