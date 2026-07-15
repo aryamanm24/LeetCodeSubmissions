@@ -6,39 +6,33 @@
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
         
-        if(not list1 and not list2):
-            return None
-        if(not list1 and list2):
+        if(not list1):
             return list2
-        if(list1 and not list2):
+        if(not list2):
             return list1
         
         curr1 = list1
         curr2 = list2
 
-        if(curr1.val <= curr2.val):
-            new_list = ListNode(curr1.val)
-            curr1 = curr1.next
-        else:
-            new_list = ListNode(curr2.val)
-            curr2 = curr2.next
+        dummy = ListNode(0)
+        merged_ptr = dummy
 
-        curr = new_list
-
-        while(curr1 is not None and curr2 is not None):
+        while(curr1 and curr2):
             if(curr1.val <= curr2.val):
-                curr.next = ListNode(curr1.val)
+                merged_ptr.next = ListNode(curr1.val)
                 curr1 = curr1.next
-                curr = curr.next
+                merged_ptr = merged_ptr.next
             else:
-                curr.next = ListNode(curr2.val)
+                merged_ptr.next = ListNode(curr2.val)
                 curr2 = curr2.next
-                curr = curr.next
+                merged_ptr = merged_ptr.next
         
-        if(curr1 is None and curr2 is not None):
-            curr.next = curr2
+        # either of list1 or list2 is exhausted
+        if(curr1 is None):
+            merged_ptr.next = curr2
+            merged_ptr = merged_ptr.next
         else:
-            curr.next = curr1
+            merged_ptr.next = curr1
+            merged_ptr = merged_ptr.next
         
-        return new_list
-
+        return dummy.next
