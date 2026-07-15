@@ -8,7 +8,8 @@ class Solution:
         # {1: 4, 2: 4, 3: 2}
         result = []
 
+        most_common = number_count.most_common()
         for i in range(k):
-            result.append(number_count.most_common()[i][0])
+            result.append(most_common[i][0])
         
         return result
