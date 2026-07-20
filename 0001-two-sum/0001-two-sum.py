@@ -1,10 +1,14 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         
-        number_map = {}
+        number_index_map = {}
 
         for index, num in enumerate(nums):
-            if(target-num not in number_map):
-                number_map[num] = index
+
+            complement = target - num
+            if(complement in number_index_map):
+                return [index, number_index_map[complement]]
             else:
-                return [index, number_map[target-num]]
+                number_index_map[num] = index
+        
+        return [-1, -1]
