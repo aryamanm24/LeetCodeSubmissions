@@ -1,27 +1,24 @@
+from collections import defaultdict
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         
-        # if the two strings have different length, then they're not anagrams
+        # if the length of both words are not the same -> not anagrams
         if(len(s) != len(t)):
             return False
-        
-        frequency_map_1 = {}
-        frequency_map_2 = {}
+
+        s_char_frequency = defaultdict(int)
+        t_char_frequency = defaultdict(int)
 
         for char1, char2 in zip(s, t):
-            if(char1 not in frequency_map_1):
-                frequency_map_1[char1] = 0
-            frequency_map_1[char1] += 1
-
-            if(char2 not in frequency_map_2):
-                frequency_map_2[char2] = 0
-            frequency_map_2[char2] += 1
+            s_char_frequency[char1] += 1
+            t_char_frequency[char2] += 1
         
-        for key in frequency_map_1:
-            if(key not in frequency_map_2):
+        for key in s_char_frequency:
+            if(key not in t_char_frequency):
                 return False
             else:
-                if(frequency_map_1[key] != frequency_map_2[key]):
+                if(s_char_frequency[key] != t_char_frequency[key]):
                     return False
         
         return True
