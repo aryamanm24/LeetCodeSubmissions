@@ -20,19 +20,24 @@ class Solution:
         while(curr1 and curr2):
             if(curr1.val <= curr2.val):
                 merged_ptr.next = ListNode(curr1.val)
-                curr1 = curr1.next
                 merged_ptr = merged_ptr.next
+                curr1 = curr1.next
             else:
                 merged_ptr.next = ListNode(curr2.val)
-                curr2 = curr2.next
                 merged_ptr = merged_ptr.next
+                curr2 = curr2.next
         
-        # either of list1 or list2 is exhausted
+        # reached end of first list
         if(curr1 is None):
-            merged_ptr.next = curr2
-            merged_ptr = merged_ptr.next
+            while(curr2):
+                merged_ptr.next = ListNode(curr2.val)
+                merged_ptr = merged_ptr.next
+                curr2 = curr2.next
         else:
-            merged_ptr.next = curr1
-            merged_ptr = merged_ptr.next
-        
+            while(curr1):
+                merged_ptr.next = ListNode(curr1.val)
+                merged_ptr = merged_ptr.next
+                curr1 = curr1.next
+
         return dummy.next
+                
