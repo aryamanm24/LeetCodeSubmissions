@@ -7,17 +7,17 @@
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         
-        # if no linked list, then no cycle
-        if (not head):
-            return False
-
-        slow_ptr = head
+        if(not head):
+            return head
+        
         fast_ptr = head
+        slow_ptr = head
 
         while(fast_ptr and fast_ptr.next):
             fast_ptr = fast_ptr.next.next
             slow_ptr = slow_ptr.next
-            if(slow_ptr == fast_ptr):
+
+            if(fast_ptr == slow_ptr):
                 return True
-            
+        
         return False
