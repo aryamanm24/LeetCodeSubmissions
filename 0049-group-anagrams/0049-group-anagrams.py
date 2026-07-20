@@ -3,17 +3,19 @@ from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         
-        groups = defaultdict(list)
+        anagrams = defaultdict(list)
 
         for string in strs:
 
-            count_arr = [0]*26
-
+            char_vector = [0]*26 # O(1) -> since fixed size
             for char in string:
-                count_arr[ord(char) - ord('a')] += 1
+                char_vector[ord(char) - ord('a')] += 1
             
-            groups[tuple(count_arr)].append(string)
-        
-        final_result = []
+            anagrams[tuple(char_vector)].append(string)
 
-        return list(groups.values())
+        result = []
+
+        for key in anagrams:
+            result.append(anagrams[key])
+        
+        return result
