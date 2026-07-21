@@ -1,25 +1,24 @@
+from collections import defaultdict
+
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
         
-        if(not nums):
-            return 0
+        prefixsum_freq = defaultdict(int)
 
-        counts = {}
-        counts[0] = 1
+        # the prefix sum of 0 appears once
+        prefixsum_freq[0] = 1
 
-        prefix_sum = 0
-        result = 0
+        counts = 0
+        running_sum = 0
 
-        for i, num in enumerate(nums):
+        for index, num in enumerate(nums):
 
-            prefix_sum += num
-            target = prefix_sum - k
-
-            if(target in counts):
-                result += counts[target]
-            if(prefix_sum in counts):
-                counts[prefix_sum] += 1
-            else:
-                counts[prefix_sum] = 1
+            running_sum += num
+            complement_prefixsum = running_sum - k
+            if(complement_prefixsum in prefixsum_freq):
+                counts += prefixsum_freq[complement_prefixsum]
+            
+            prefixsum_freq[running_sum] += 1
         
-        return result
+        return counts
+
