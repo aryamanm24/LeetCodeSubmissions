@@ -11,7 +11,7 @@ class Solution:
         counts = 0
         running_sum = 0
 
-        for index, num in enumerate(nums):
+        for num in nums:
 
             running_sum += num
             complement_prefixsum = running_sum - k
