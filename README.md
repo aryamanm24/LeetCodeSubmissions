@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0036-valid-sudoku](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0056-merge-intervals/) | Medium |
@@ -33,6 +34,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -253,5 +255,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0036-valid-sudoku/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 <!---LeetCode Topics End-->
