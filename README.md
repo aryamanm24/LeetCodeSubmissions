@@ -26,6 +26,7 @@
 | [0704-binary-search](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0739-daily-temperatures/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@
 | [0409-longest-palindrome](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -248,4 +250,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 <!---LeetCode Topics End-->
