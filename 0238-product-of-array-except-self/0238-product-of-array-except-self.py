@@ -1,31 +1,35 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         
-        length = len(nums)
+        length_arr = len(nums) # O(n)
 
-        left = [0]*(length+1)
-        right = [0]*(length+1)
-
+        left = [0]*(length_arr + 1)
+        right = [0]*(length_arr + 1)
         left[0] = 1
         right[-1] = 1
 
-        # left = [1, 0, 0, 0]
-        # right = [0, 0, 0, 1]
-        # nums = [1, 2, 3, 4]
-        for i in range(1, length+1):
+        # Doing running direction in forward (left) and backward (right) direction
+        # in one pass
 
-            left[i] = left[i-1] * nums[i-1]
-            
-            # right[3]
-            right[length-i] = right[length-i+1] * nums[length-i]
+        for i in range(1, length_arr+1):
+
+            left[i] = nums[i-1]*left[i-1]
+            right[length_arr - i] = nums[length_arr - i]*right[length_arr - i + 1]
         
-        # print(left)
-        # print(right)
+        # Debugging printing
+        # left_length = len(left)
 
-        product = [0] *length
-
-        for i in range(length):
-            product[i] = left[i]*right[i+1]
+        # for i in range(left_length):
+        #     print(left[i], end=", ")
         
-        return product
+        # print()
 
+        # for i in range(left_length):
+        #     print(right[i], end=", ")
+
+        output = [0]*length_arr
+
+        for i in range(length_arr):
+            output[i] = left[i] * right[i+1]
+        
+        return output
