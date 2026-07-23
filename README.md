@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0056-merge-intervals/) | Medium |
@@ -54,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0042-trapping-rain-water](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -66,6 +68,7 @@
 | [0015-3sum](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -88,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -102,6 +106,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0739-daily-temperatures/) | Medium |
