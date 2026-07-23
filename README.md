@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -66,6 +67,7 @@
 | [0075-sort-colors](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -162,6 +164,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0704-binary-search/) | Easy |
 ## Tree
