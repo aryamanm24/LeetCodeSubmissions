@@ -30,6 +30,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0853-car-fleet/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -88,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0853-car-fleet](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0853-car-fleet/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -99,6 +101,7 @@
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0853-car-fleet/) | Medium |
 | [0856-score-of-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -113,6 +116,7 @@
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0853-car-fleet/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
