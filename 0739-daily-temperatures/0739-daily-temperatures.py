@@ -1,15 +1,16 @@
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
         
-        stack = [] # store indices?
-        result = [0]*len(temperatures)
+        answer = [0] * len(temperatures)
 
-        for i, temp in enumerate(temperatures):
+        stack = [] # monotonic stack -> store indices
 
-            while(stack and temperatures[stack[-1]] < temp):
-                result[stack[-1]] = i-stack[-1]
+        for index, temp in enumerate(temperatures):
+
+            while(stack and temp>temperatures[stack[-1]]):
+                answer[stack[-1]] = index - stack[-1]
                 stack.pop()
-            
-            stack.append(i)
+
+            stack.append(index)
         
-        return result
+        return answer
