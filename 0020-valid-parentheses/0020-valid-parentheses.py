@@ -1,28 +1,21 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         
-        opening = ['(', '{', '['] # Fixed length
+        open_brackets_set = ['(', '{', '[']
+
         stack = []
 
-        for char in s:
-            if(char in opening): # 3n
-                stack.append(char)
-            
+        for bracket in s:
+            if(bracket in open_brackets_set):
+                stack.append(bracket)
             else:
-                if(char == ')'):
-                    if(stack and stack[-1] == '('):
-                        stack.pop()
-                    else:
-                        stack.append(char)
-                elif(char == '}'):
-                    if(stack and stack[-1] == '{'):
-                        stack.pop()
-                    else:
-                        stack.append(char)
-                elif(char == ']'):
-                    if(stack and stack[-1] == '['):
-                        stack.pop()
-                    else:
-                        stack.append(char)
+                if(bracket == ')' and stack and stack[-1] == '('):
+                    stack.pop()
+                elif(bracket == '}' and stack and stack[-1] == '{'):
+                    stack.pop()
+                elif(bracket == ']' and stack and stack[-1] == '['):
+                    stack.pop()
+                else:
+                    stack.append(bracket)
             
-        return len(stack) == 0
+        return len(stack)==0
