@@ -1,22 +1,26 @@
 class Solution:
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
         
-        # list comprehension
-        pairs = [[p, s] for p, s in zip(position, speed)]
-
-        # now we'll have a list of list like:
-        # [[10, 2], [8, 4], [0, 1], [5, 1], [3, 3]]
+        if(len(position)==1):
+            return 1
         
-        # Now, we sort pairs in terms of its positions (index 0 for each list)
+        # sort, so that the ones closer to target are first
+        # zip(list1, list2) makes you consider both lists at once
+        # so x = a tuple (position, speed); so x[0] is a position value
+        cars = sorted(zip(position, speed), key=lambda x:x[0], reverse=True)
 
-        stack = []
-        for p, s in sorted(pairs)[::-1]: # going in reverse order
+        # [(10, 2), (8, 4), (5, 1), (3, 3), (0, 1)]
 
-            stack.append((target-p)/s)
 
-            # check if the car that comes now is faster compared to the any of the car fleets in the stack
-            # collision happens
-            if(len(stack) >= 2 and stack[-1] <= stack[-2]):
-                stack.pop()
+        num_fleets = 0
+        max_time = 0
 
-        return len(stack)
+        for pos, spd in cars:
+
+            time_taken = (target - pos)/ spd
+
+            if(time_taken > max_time):
+                num_fleets += 1
+                max_time = time_taken
+        
+        return num_fleets
