@@ -95,6 +95,7 @@
 | [0020-valid-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0739-daily-temperatures/) | Medium |
@@ -273,4 +274,8 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0036-valid-sudoku/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
