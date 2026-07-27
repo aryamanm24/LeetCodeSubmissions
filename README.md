@@ -98,6 +98,7 @@
 | [0042-trapping-rain-water](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0155-min-stack/) | Medium |
+| [0394-decode-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0739-daily-temperatures/) | Medium |
@@ -132,6 +133,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -144,6 +146,7 @@
 | [0125-valid-palindrome](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0394-decode-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0409-longest-palindrome/) | Easy |
 | [0796-rotate-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0856-score-of-parentheses/) | Medium |
