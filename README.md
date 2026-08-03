@@ -19,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0200-number-of-islands](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -200,6 +201,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -210,6 +212,7 @@
 | [0100-same-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -267,6 +270,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0200-number-of-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -280,6 +284,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0036-valid-sudoku/) | Medium |
+| [0200-number-of-islands](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0200-number-of-islands/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Design
 | Problem Name | Difficulty |
