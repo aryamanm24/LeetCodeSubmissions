@@ -41,6 +41,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0036-valid-sudoku](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -143,6 +144,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0058-length-of-last-word/) | Easy |
@@ -233,6 +235,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0509-fibonacci-number](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
