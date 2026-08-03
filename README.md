@@ -196,6 +196,7 @@
 | [0226-invert-binary-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +206,7 @@
 | [0226-invert-binary-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -224,6 +226,7 @@
 | [0226-invert-binary-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,4 +293,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0155-min-stack/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
