@@ -135,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0394-decode-string/) | Medium |
@@ -236,6 +237,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0012-integer-to-roman/) | Medium |
+| [0050-powx-n](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
