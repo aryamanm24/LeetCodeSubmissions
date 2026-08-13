@@ -320,5 +320,6 @@
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/aryamanm24/LeetCodeSubmissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
