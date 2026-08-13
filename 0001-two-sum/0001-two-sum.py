@@ -5,10 +5,9 @@ class Solution:
 
         for index, num in enumerate(nums):
 
-            complement = target - num
-            if(complement in number_index_map):
-                return [index, number_index_map[complement]]
-            else:
+            if(target-num not in number_index_map):
                 number_index_map[num] = index
-        
+            
+            else:
+                return [index, number_index_map[target-num]]
         return [-1, -1]
